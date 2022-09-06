@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @reiserdaniel
+- 👀 I’m interested in finding a new job in Berlin, Amsterdam, London or Prague.
+- 🌱 I’m currently learning system design, because I want to scope my skills wider.
+- 💞️ I’m looking to collaborate on ... tbd
+- 📫 How to reach me at daniel.reiser.dev@gmail.com
